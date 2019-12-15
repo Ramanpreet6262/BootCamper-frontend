@@ -1,3 +1,5 @@
 # BootCamper-frontend
 
-## Tech Stack:
+> Frontend for BootCamper application, a bootcamp directory website
+
+
