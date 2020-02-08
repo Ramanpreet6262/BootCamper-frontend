@@ -8,6 +8,7 @@ import Navbar from './Components/Navbar/Navbar';
 // import CourseNone from './Components/Manage_Course_None/Course_none';
 // import ManageCourses from './Components/ManageCourses/ManageCourses';
 // import ManageBootcamp from './Components/ManageBootcamp/ManageBootcamp';
+// import Error404 from './Components/Error404/Error404';
 
 const App = () => {
   return (
