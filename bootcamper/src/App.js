@@ -9,6 +9,8 @@ import Navbar from './Components/Navbar/Navbar';
 // import ManageCourses from './Components/ManageCourses/ManageCourses';
 // import ManageBootcamp from './Components/ManageBootcamp/ManageBootcamp';
 // import Error404 from './Components/Error404/Error404';
+// import AddBootcamp from './Components/AddBootcamp/AddBootcamp';
+// import AddCourse from './Components/AddCourse/AddCourse';
 
 const App = () => {
   return (
