@@ -11,6 +11,7 @@ import Navbar from './Components/Navbar/Navbar';
 // import Error404 from './Components/Error404/Error404';
 // import AddBootcamp from './Components/AddBootcamp/AddBootcamp';
 // import AddCourse from './Components/AddCourse/AddCourse';
+// import Bootcamp from './Components/Bootcamp/Bootcamp';
 
 const App = () => {
   return (
