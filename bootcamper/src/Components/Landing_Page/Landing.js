@@ -53,3 +53,17 @@ class Landing extends Component {
 }
 
 export default Landing;
+
+/*    
+For displaying map add them
+
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js"></script>
+<link
+	href="https://api.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css"
+	rel="stylesheet"
+/>
+
+
+
+*/

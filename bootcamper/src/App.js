@@ -4,6 +4,8 @@ import Navbar from './Components/Navbar/Navbar';
 // import Landing from './Components/Landing_Page/Landing';
 // import Register from './Components/Register/Register';
 // import Login from './Components/Login/Login';
+// import BootcampNone from './Components/Manage_Bootcamp_None/Bootcamp_none';
+// import CourseNone from './Components/Manage_Course_None/Course_none';
 
 const App = () => {
   return (
