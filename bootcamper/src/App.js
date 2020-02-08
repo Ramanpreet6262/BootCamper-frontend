@@ -6,6 +6,8 @@ import Navbar from './Components/Navbar/Navbar';
 // import Login from './Components/Login/Login';
 // import BootcampNone from './Components/Manage_Bootcamp_None/Bootcamp_none';
 // import CourseNone from './Components/Manage_Course_None/Course_none';
+// import ManageCourses from './Components/ManageCourses/ManageCourses';
+// import ManageBootcamp from './Components/ManageBootcamp/ManageBootcamp';
 
 const App = () => {
   return (
