@@ -12,6 +12,7 @@ import Navbar from './Components/Navbar/Navbar';
 // import AddBootcamp from './Components/AddBootcamp/AddBootcamp';
 // import AddCourse from './Components/AddCourse/AddCourse';
 // import Bootcamp from './Components/Bootcamp/Bootcamp';
+// import Bootcamps from './Components/BrowseBootcamps/Bootcamps';
 
 const App = () => {
   return (
