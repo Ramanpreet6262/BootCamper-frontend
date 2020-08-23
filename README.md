@@ -2,6 +2,8 @@
 
 > Frontend for BootCamper application, a bootcamp directory website in ReactJS.
 
+<b>WIP Still!!</b>
+
 ## Install Dependencies
 
 ```
